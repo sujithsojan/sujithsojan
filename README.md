@@ -15,9 +15,6 @@ I'm a passionate Developer with 4+ years of experience, specializing in Angular,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sujithsojan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sujithsojan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
