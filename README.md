@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Developer with 4+ years of experience, specializing in **JavaScript**.  
+I'm a passionate Software Engineer with 4+ years of experience, specializing in **JavaScript**.  
 I love learning new tech every day and I'm a big fan of **open-source** and community-driven development.
 <br><br>---<br><br>💻 Tech Stack<br>- Frontend: Angular, Ionic, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>- UI Styling: SCSS, TailwindCSS, Bootstrap<br>- Tools: Git, GitHub, Postman, VSCode, Chrome DevTools<br>- Testing: Jest<br>- Currently Learning: React, AI tools for devs, and System Design<br><br><br><br>📌 Fun Facts<br>- I love debugging more than writing new code 😅<br>- I'm also into productivity, fitness, and personal growth<br><br>---<br><br>📫 Let's Connect!<br>Feel free to reach out or collaborate on something cool!<br><br>---<br><br>⭐️ Thanks for visiting my GitHub profile!
 
